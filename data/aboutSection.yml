@@ -1,0 +1,21 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+
+content: >
+  ### I design, create, sell, represent, market and build things.
+
+  Hi there! My name is Stephen, i'm a freelance front end web developer, graphic designer, content creator, writer and I.T consultant. I am also a student currently pursuing my Bachelor’s Degree of Science in Information Technology. I work as a freelancer online and as such spend most of my days writing articles, designing & building things e.g. brands, websites, software, apps, graphic materials, courses, pdfs and more.
+
+  I am a self taught “technologist”, hence 60% of my skills come from Online Courses.
+
+  To top that off I am a tech enthusiast always interested in trends such as Progressive Web Apps, The Comeback of Static Sites(e.g. Hugo), Machine Learning/AI, Quantum Computing, Big Data, VR/AR/MR, Blockchain, 3D printing and Robotics.
+
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg

@@ -1,8 +1,7 @@
-baseURL = "http://example.org/"
+baseURL = "https://stephenajulu5.netlify.app"
 languageCode = "en-us"
 paginate = 6
-theme = "portio"
-title = "Portio"
+title = "Stephen Ajulu"
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -47,24 +46,24 @@ name = "Privacy & Policy"
 url = "#"
 weight = 3
 [[menu.sitemap]]
-name = "Latest Article"
+name = "Latest Articles"
 url = "#"
 weight = 4
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
+copyright = "All right reserved copyright © Stephen Ajulu 2020"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+address = "Nairobi, Kenya"
+email = "alunje73gmail.com"
+openingHours = "Call me between 10am and 6pm"
+phone = "+254 726 024 219"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
@@ -75,17 +74,17 @@ pinImage = "images/pin.png"
 # Social icons
 [[params.social]]
 icon = "fa-facebook-official"
-url = "https://www.facebook.com/"
+url = "https://www.facebook.com/stephenajulu"
 weight = 1
 [[params.social]]
 icon = "fa-linkedin-square"
-url = "https://www.linkedin.com/"
+url = "https://www.linkedin.com/in/stephenajulu"
 weight = 2
 [[params.social]]
 icon = "fa-pinterest-square"
-url = "https://www.pinterest.com/"
+url = "https://www.pinterest.com/stephenajulu"
 weight = 3
 [[params.social]]
 icon = "fa-twitter-square"
-url = "https://twitter.com/"
+url = "https://twitter.com/stephenajulu"
 weight = 4

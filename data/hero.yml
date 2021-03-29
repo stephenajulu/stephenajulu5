@@ -1,11 +1,10 @@
 ---
 enable: true
-topTitle: Hello, I am Natasha
+topTitle: Hi there!
 content: >
-  # I am here for your personal business
+  # I'm Stephen Ajulu
 
-  Enjoy team diversity and increase their networks among others people
-  in various fields by
+  A Tech Enthusiast, Front End Web Developer, Content Creator, I.T Consultant, Graphic & Web Design
 buttonName: Contact me
 buttonURL: contact
 image: images/hero/2960351.jpg

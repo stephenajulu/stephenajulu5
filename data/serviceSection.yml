@@ -1,0 +1,39 @@
+---
+enable: true
+topTitle: Services
+title: >
+  ## Here's how i can provide value to you
+
+  Enjoy team diversity and increase their networks among others people in
+  various fields by provided.
+service:
+  - content: >
+      #### Web Development 
+
+      I build fast, secure and search engine optimized progressive websites. I use platforms like wordpress, hugo, jamstack, jekyll and more
+    image: images/service/web.svg
+  - content: >
+      #### Graphic & Web Design 
+
+      I design eye catching logos, posters, websites and more. Soon i'll be designing products, interfaces, interactions and experiences
+    image: images/service/creative.svg
+  - content: >
+      #### Content Creation & Strategy
+
+      I write tech articles, manuals, ebooks, instructions and books. I can also copywright and build a content strategy for your organization
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Cybersecurity Strategy & Consultation
+
+      This is a service mainly dedicated to small business, i can help you come up with a cybersecurity strategy to help you build a good security structure for you, your employees and the company in general
+    image: images/service/branding.svg
+  - content: >
+      #### I.T Consultation
+
+      With my years of experience as a go to tech guy and support, i can help you identify the needs of your company in the I.T section and how to fufil the need in a cost effective way
+    image: images/service/ui-ux.svg
+  - content: >
+      #### General Consultation
+
+      With my years of experirence in I.T, Content Creation, Web Development, Cybersecurity, Design, Internet, Business, Brands, Agriculture, Finance and more, i may be of assistance by helping you achieve your goal
+    image: images/service/web.svg

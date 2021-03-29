@@ -1,0 +1,28 @@
+---
+enable: true
+topTitle: My Skills
+content: >
+  ## Why you should hire me for your next project?
+
+
+image: images/skill/skill_image.jpg
+
+skill:
+  - title: Web Development & Optimization
+    percent: 70
+  - title: Graphic Design
+    percent: 60
+  - title: I.T Consultation & Strategy
+    percent: 80
+  - title: General Consultation & Strategy
+    percent: 70
+  - title: Microsoft Office
+    percent: 70
+  - title: Content Creation, Strategy, Research, Data Collection and Entry
+    percent: 80
+  - title: Linux
+    percent: 60
+  - title: Tech Support, System Troubleshooting, Maintenace and General Maintenance
+    percent: 80
+  - title: Hacking & Basic Digital Forensics
+    percent: 55
