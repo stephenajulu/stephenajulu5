@@ -54,10 +54,10 @@ weight = 4
 blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Stephen Ajulu 2020"
-footerLogo = "images/contact/widget-logo.png"
+footerLogo = "favicon.png"
 formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
 googleAnalytics = "UA-132349593-3"
-logo = "images/site-navigation/logo.png"
+logo = "favicon.png"
 
 [params.address]
 address = "Nairobi, Kenya"
