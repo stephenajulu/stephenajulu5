@@ -33,4 +33,24 @@
     gtag('config', '{{ . }}');
   </script>
   {{ end }}
+  {{ "<!-- Indieauth -->" | safeHTML }}
+  <link rel="authorization_endpoint" href="https://indieauth.com/auth" />
+  <link rel="token_endpoint" href="https://tokens.indieauth.com/token" />
+  
+  {{ "<!-- Webmention -->" | safeHTML }}
+  <link rel="webmention" href="https://webmention.io/stephenajulu.com/webmention" />
+  <link rel="pingback" href="https://webmention.io/stephenajulu.com/xmlrpc" />
+  
+  {{ "<!-- Web Monetization -->" | safeHTML }}
+  <meta name="monetization" content="$ilp.uphold.com/GLrwmQrfDeU9">
+  {{ partial "opengraph.html" . }}
+  {{ partial "schema.html" . }}
+  {{ partial "twitter_card.html" . }}
+  {{ partial "metaicon.html" . }}
+  {{ "<!-- PWAUpdate Script -->" | safeHTML }}
+  <script type="module">
+   import 'https://cdn.jsdelivr.net/npm/@pwabuilder/pwaupdate';
+   const el = document.createElement('pwa-update');
+   document.body.appendChild(el);
+</script>
 </head>
