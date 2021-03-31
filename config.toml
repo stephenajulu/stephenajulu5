@@ -104,8 +104,8 @@ icon = "fa-github"
 url = "https://www.github.com/stephenajulu"
 weight = 5
 [[params.social]]
-icon = "fa-dribble"
-url = "https://www.dribble.com/stephenajulu"
+icon = "fa-dribbble"
+url = "https://dribbble.com/stephenajulu"
 weight = 6
 [[params.social]]
 icon = "fa-pinterest"
@@ -115,3 +115,11 @@ weight = 8
 icon = "fa-youtube"
 url = "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"
 weight = 9
+[[params.social]]
+icon = "fa-link"
+url = "https://ajulusthoughts.stephenajulu.com"
+weight = 10
+[[params.social]]
+icon = "fa-rss"
+url = "https://ajulusthoughts.stephenajulu.com/rss"
+weight = 10
