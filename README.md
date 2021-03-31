@@ -1,16 +1,38 @@
-<h1>Portio Hugo</h1>
+# Stephen Ajulu's Website
+Includes
+- About me
+- Resume
+- Hoobies
+- Portfolio
+- Contact form
+- and more
+
+<hr>
+&nbsp;
+<br>
+&nbsp;
+<br>
+&nbsp;
+<br>
+&nbsp;
+<hr>
+
+<h1>Theme used</h1>
+<h2>Portio Hugo</h2>
 <img src="https://user-images.githubusercontent.com/25920065/91142412-8a895c80-e6d2-11ea-93dd-5de59ce60adf.jpg" alt="screenshot" width="100%">
 
 Portio is a simple, minimal and responsive Portfolio Hugo Theme. Portio is well organized, well-formatted and named accordingly so it’s easy to change any and all of the design. Portio is built with Bootstrap 4. You can customize it very easy to fit your needs.
 
 ## Table of Contents
 
-- [Live Demo](#live-demo)
-- [Installation](#installation)
-- [Main Features](#features)
-- [Support](#support)
-- [Licensing](#licensing)
-- [Hire](#hire)
+- [Stephen Ajulu's Website](#stephen-ajulus-website)
+  - [Table of Contents](#table-of-contents)
+  - [Live Demo](#live-demo)
+  - [Installation](#installation)
+  - [Features](#features)
+  - [Support](#support)
+  - [Licensing](#licensing)
+  - [Hire](#hire)
 
 ## Live Demo
 

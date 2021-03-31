@@ -2,18 +2,18 @@
 enable: true
 topTitle: Testimonials
 title: >
-  ## What People are Say About Me?
+  ## What People are Saying About Me?
 
 testimonial:
-  - name: Ryan Cook
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 20, 2020
-    star: 5
-  - name: Justin Trudo
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Jan 16, 2020
+  - name: Brian Ochieng
+    comment: Was looking for a personal brand logo and Ajulu delivered. I contacted several other logo designers before Ajulu and i can say that his was the best
+    time: Jan 20, 2019
     star: 4
-  - name: Franky Filth
-    comment: Takimata sanctus est lorem ipsum dolor sit amet lorem ipsum dolor sit amet consetur sad ipscing elitr sed diam nonumy eirmod tempor invidunt labore dolore magna.
-    time: Mar 08, 2020
+  - name: Gloria Estell
+    comment: Was looking for a way to sell my product and a blog to write more about it and Stephen was definetly helpful.
+    time: Jan 16, 2019
     star: 3
+  - name: Desire Stela Clothing line
+    comment: Wanted a logo, got a full brand package i honestly don't know what to say and then he invited me to rate his services.
+    time: Mar 08, 2020
+    star: 5

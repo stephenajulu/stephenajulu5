@@ -5,12 +5,12 @@ content: >
   ## Why you should hire me for your next project?
 
 
-image: images/skill/skill_image.jpg
+image: images/skill/skill_image.svg
 
 skill:
-  - title: Web Development & Optimization
+  - title: HTML, CSS, JS, SEO, GO, Hugo, JAMstack, PWA, WordPress, Shopify & Web Optimization
     percent: 70
-  - title: Graphic Design
+  - title: Graphic & Web Design
     percent: 60
   - title: I.T Consultation & Strategy
     percent: 80
@@ -26,3 +26,7 @@ skill:
     percent: 80
   - title: Hacking & Basic Digital Forensics
     percent: 55
+  - title: Product Photography
+    percent: 61
+  - title: Branding
+    percent: 61

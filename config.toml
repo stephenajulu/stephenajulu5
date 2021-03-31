@@ -39,11 +39,11 @@ url = "about"
 weight = 1
 [[menu.sitemap]]
 name = "Frequently Ask Question"
-url = "#"
+url = "faq"
 weight = 2
 [[menu.sitemap]]
 name = "Privacy & Policy"
-url = "#"
+url = "privacy-policy"
 weight = 3
 [[menu.sitemap]]
 name = "Latest Articles"
@@ -55,8 +55,8 @@ blogPageURL = "blog"
 contactLink = "contact"
 copyright = "All right reserved copyright © Stephen Ajulu 2020"
 footerLogo = "images/contact/widget-logo.png"
-formspreeURL = "YOUR FORMSPREE URL"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
+googleAnalytics = "UA-132349593-3"
 logo = "images/site-navigation/logo.png"
 
 [params.address]

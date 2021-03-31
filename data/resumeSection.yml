@@ -4,10 +4,6 @@ topTitle: My Resume
 title: >
   ## My Expertises
 
-  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore  
-
-
-  Magna aliquyam erat, sed diam voluptua. At vero eos accusam justo.
 tab1Name: Education
 tab2Name: Experiences
 tab1Target: education
@@ -15,44 +11,75 @@ tab2Target: experience
 
 education:
   - content: >
-      #### Master in Arts
+      #### Bachelor's Degree of Science in Information Technology
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Currently Studying at Mount Kenya University, Nairobi, Kenya
+    time: 2019-2022
   - content: >
-      #### Master in Arts
+      #### Identification and Investigation of Cybersecurity Threats Micro Certification
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Studied at IBM, Online/E-learning
+    time: 2019-2019
   - content: >
-      #### Master in Arts
+      #### Cloud, Cybersecurity & Web Development Introduction Micro Certifications
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Studied at IBM, Online/E-learning
+    time: 2019-2019
   - content: >
-      #### Master in Arts
+      #### Ethical Hacking Bootcamp Certification
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2008-2010
+      Studied at Institute of Software Technologies, Nairobi, Kenya
+    time: 2018-2018
+  - content: >
+      #### Diploma in Information Technology
+
+      Studied at St. Paul's University, Nairobi, Kenya
+    time: 2017-2017
+  - content: >
+      #### Fundament System Troubleshooting Micro Certification
+
+      Studied at Cybrary, Online/E-learning
+    time: 2016-2016
+  - content: >
+      #### Adobe Photoshop and Corel Draw Packages
+
+      Studied at Epren School of Professional Studies, Nairobi, Kenya
+    time: 2016-2016
+  - content: >
+      #### Certificate in Business and Information Technology
+
+      Studied at St. Paul's University, Nairobi, Kenya
+    time: 2015-2015
 
 experience:
   - content: >
-      #### Umbrella co. 
+      ####  The Kenyan Ministry of Devolution and Planning
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2016-Present
+      Here, i was hired as an M & E Secretariat, a postion only available on November/December every year on a special event known as The M & E Week. Here my roles were Registration of Delegates, Tech Support, Graphic Design, Distribution of Conference Materials, I.T Consultantion among other office work.
+    time: 2014-2015
   - content: >
-      #### Aperture Science 
+      ####  Ajulu's Thoughts
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2010-2016
+      Ajulu's Thoughts is my personal yet somewhat professional blog that i started back after finishing my highschool days to share my knowledge of I.T and journey. It's still running to date and i still write frequently. I am responsible for everything, from designing the website, to developing it, to planning articles, to writing them and even marketing them. I believe it should be one of my experience because it was truly an experience and i wouldn't have learned SEO(Search Engine Optimization) without it. Here my roles as describe are Content Creation and Strategy. You can find my blog here https://ajulusthoughts.stephenajulu.com
+    time: 2015-Present
   - content: >
-      #### ACME Inc. 
+      #### OwlSec
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2005-2010
+      Formerly known as OwlSec Technologies or Geeky Technologies or Geeky Desygns among other names is a company i founded back while i was pursuing my certificate in Business and Information Technology with a few classmates, I was the one who came up with the idea and invited my classmates over and as such was named director. After a few flops and quarels, i decided to lead the company to the future i wanted and hence parted way with the others and went on to rebrand it into OwlSec Technologies, i then found more people who i added into my ranks but during the Covid-19, i met a hurdle, the people i brought in wanted to be paid, did nothing and the company was loosing clients since i was the only one fufiling my roles, so i decided to put Owlsec on pause and focus more on freelancing, which is what i am doing even now. OwlSec has not died. I still plan to resurect it and truly chase after the vision i have for it, which is for it to become a known and trusted brand worldwide and finally graft it into my dream company Ajulu Enterprises as a subsidiary known as Ajulu Technologies. May roles here were Directing, Web Development, Graphic Design and I.T Consultation
+    time: 2016-2021
   - content: >
-      #### LexCorp 
+      #### Techknow & Stream254 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam
-    time: 2001-2005
+      These are 2 different companies/magazines that i currently write in. Here my roles are content creation, strategy and consultation. Techknow also has a community of techies from all over the world and i am one of them.
+    time: 2017-Present
+  - content: >
+      #### The Noesis Magazine 
+
+      The Noesis Magazine is a tech, science and engineering magazine that i founded inorder to allow people grow more knowledgable and help those enthusiastic, learn. It is still in it's seed stage and hence i am the only writer but my hope is that it will blossum. My roles here are Content Creation, Strategization, Consultation and Editing other writers work as a Editor-in-chief.
+    time: 2020-Present
+  - content: >
+      #### SAOA Media 
+
+      Another company i founded after i paused OwlSec, since i had a strong foundation in content creation, i thought starting a digital media company would be easy and efficient, so i started one, sadly things didn't go as planned. Open 5 publications, writing 5 articles a day was challenging since i was also a student, so i paused this for after i graduate where i can handle writng 10 articles a day and still work on projects as a freelancer and a director of owlsec.
+    time: 2020-Present
+
