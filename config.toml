@@ -59,7 +59,7 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Copyright © Stephen Ajulu 2021. &nbsp; All Glory Unto God!"
+copyright = "Copyright © Stephen Ajulu 2021.    All Glory Unto God!"
 footerLogo = "favicon.png"
 formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
 googleAnalytics = "UA-132349593-3"
