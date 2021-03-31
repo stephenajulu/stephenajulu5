@@ -1,7 +1,13 @@
 baseURL = "https://stephenajulu.com"
 languageCode = "en-us"
 paginate = 6
-title = "Stephen Ajulu"
+title = "Stephen Ajulu | I.T Consultant(Web, Graphics, Brands and more)"
+[author]
+email = "alunje73@gmail.com"
+facebook = "stephenajulu"
+name = "Stephen Ajulu"
+twitter = "@stephenajulu"
+
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -25,7 +31,7 @@ url = "#resume"
 weight = 5
 [[menu.main]]
 name = "Blog"
-url = "#blog"
+url = "https://ajulusthoughts.stephenajulu.com"
 weight = 6
 [[menu.main]]
 name = "Contact"
@@ -47,22 +53,27 @@ url = "privacy-policy"
 weight = 3
 [[menu.sitemap]]
 name = "Latest Articles"
-url = "#"
+url = "https://ajulusthoughts.stephenajulu.com"
 weight = 4
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Stephen Ajulu 2020"
+copyright = "Copyright © Stephen Ajulu 2021. All Glory Unto God!"
 footerLogo = "favicon.png"
 formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
 googleAnalytics = "UA-132349593-3"
 logo = "favicon.png"
+description = "Welcome to Stephen Ajulu's Personal Website where you can learn more about the kind of services he offers, his work, how to contact him, what he offers, his articles and more"
+featureImage = "images/featureImage.jpg"
+image = "images/featureImage.jpg"
+images = "images/featureImage.jpg"
+
 
 [params.address]
 address = "Nairobi, Kenya"
 email = "alunje73gmail.com"
-openingHours = "Call me between 10am and 6pm"
+openingHours = "Call me anytime between 9am and 6pm but i prefer a text"
 phone = "+254 726 024 219"
 
 [params.map]
@@ -81,7 +92,7 @@ icon = "fa-linkedin-square"
 url = "https://www.linkedin.com/in/stephenajulu"
 weight = 2
 [[params.social]]
-icon = "fa-instagram-square"
+icon = "fa-instagram"
 url = "https://www.instagram.com/stephenajulu"
 weight = 3
 [[params.social]]
@@ -93,13 +104,9 @@ icon = "fa-github-square"
 url = "https://www.github.com/stephenajulu"
 weight = 5
 [[params.social]]
-icon = "fa-dribble-square"
+icon = "fa-dribble"
 url = "https://www.dribble.com/stephenajulu"
 weight = 6
-[[params.social]]
-icon = "fa-external-link-square-alt"
-url = "https://ajulusthoughts.stephenajulu.com"
-weight = 7
 [[params.social]]
 icon = "fa-pinterest-square"
 url = "https://www.pinterest.com/stephenajulu"
