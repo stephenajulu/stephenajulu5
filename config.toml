@@ -84,7 +84,7 @@ pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
+icon = "fa-facebook-f"
 url = "https://www.facebook.com/stephenajulu"
 weight = 1
 [[params.social]]
