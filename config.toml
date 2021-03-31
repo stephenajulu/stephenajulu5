@@ -88,7 +88,7 @@ icon = "fa-facebook-official"
 url = "https://www.facebook.com/stephenajulu"
 weight = 1
 [[params.social]]
-icon = "fa-linkedin-square"
+icon = "fa-linkedin"
 url = "https://www.linkedin.com/in/stephenajulu"
 weight = 2
 [[params.social]]
@@ -96,11 +96,11 @@ icon = "fa-instagram"
 url = "https://www.instagram.com/stephenajulu"
 weight = 3
 [[params.social]]
-icon = "fa-twitter-square"
+icon = "fa-twitter"
 url = "https://twitter.com/stephenajulu"
 weight = 4
 [[params.social]]
-icon = "fa-github-square"
+icon = "fa-github"
 url = "https://www.github.com/stephenajulu"
 weight = 5
 [[params.social]]
@@ -108,10 +108,10 @@ icon = "fa-dribble"
 url = "https://www.dribble.com/stephenajulu"
 weight = 6
 [[params.social]]
-icon = "fa-pinterest-square"
+icon = "fa-pinterest"
 url = "https://www.pinterest.com/stephenajulu"
 weight = 8
 [[params.social]]
-icon = "fa-youtube-square"
+icon = "fa-youtube"
 url = "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"
 weight = 9
