@@ -64,12 +64,7 @@ footerLogo = "favicon.png"
 formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
 googleAnalytics = "UA-132349593-3"
 logo = "favicon.png"
-description = "Hi there! I'm Stephen,  A Student, Tech Enthusiast, Front End Web Developer, Content Creator(writer, youtuber, and podcaster), Online Shop Owner(SPHCI), Founder/Director(Ajulu's Thoughts, The Noesis Magazine, SAOA Media, OwlSec), I.T Consultant, Product Photographer, Graphic & Web Design, here find my previous work, my skills, services, hoobies and more"
-buttonName: Contact me
-buttonURL: contact
-image: images/hero/about-hero.jpg
-videoThumb: images/hero/popup-thumb.png
-videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+description = "Hi there! I'm Stephen,  A Student, Tech Enthusiast, Front End Web Developer, Content Creator(writer, youtuber, and podcaster), Online Shop Owner(SPHCI), Founder/Director(Ajulu's Thoughts, The Noesis Magazine, SAOA Media, OwlSec), I.T Consultant, Product Photographer, Graphic & Web Design, here find my previous work, my skills, services, hoobies, experiences, expertise and more"
 featureImage = "images/featureImage.jpg"
 image = "images/featureImage.jpg"
 images = "images/featureImage.jpg"
