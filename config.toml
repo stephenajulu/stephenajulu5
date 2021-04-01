@@ -1,7 +1,7 @@
 baseURL = "https://stephenajulu.com"
 languageCode = "en-us"
 paginate = 6
-title = "Stephen Ajulu | I.T Expert(Web, Graphics, Brands, Consultation and more)"
+title = "Stephen Ajulu | I.T Expert(Web, Graphics, Brands, Cybersecurity, Design and more)"
 [author]
 email = "alunje73@gmail.com"
 facebook = "stephenajulu"
@@ -64,7 +64,12 @@ footerLogo = "favicon.png"
 formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
 googleAnalytics = "UA-132349593-3"
 logo = "favicon.png"
-description = "Welcome to Stephen Ajulu's Personal Website where you can learn more about the kind of services he offers, his work, how to contact him, what he offers, his articles and more"
+description = "Hi there! I'm Stephen,  A Student, Tech Enthusiast, Front End Web Developer, Content Creator(writer, youtuber, and podcaster), Online Shop Owner(SPHCI), Founder/Director(Ajulu's Thoughts, The Noesis Magazine, SAOA Media, OwlSec), I.T Consultant, Product Photographer, Graphic & Web Design, here find my previous work, my skills, services, hoobies and more"
+buttonName: Contact me
+buttonURL: contact
+image: images/hero/about-hero.jpg
+videoThumb: images/hero/popup-thumb.png
+videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 featureImage = "images/featureImage.jpg"
 image = "images/featureImage.jpg"
 images = "images/featureImage.jpg"
