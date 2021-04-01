@@ -1,7 +1,7 @@
 baseURL = "https://stephenajulu.com"
 languageCode = "en-us"
 paginate = 6
-title = "Stephen Ajulu | I.T Consultant(Web, Graphics, Brands and more)"
+title = "Stephen Ajulu | I.T Expert(Web, Graphics, Brands, Consultation and more)"
 [author]
 email = "alunje73@gmail.com"
 facebook = "stephenajulu"
@@ -59,7 +59,7 @@ weight = 4
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "Copyright © Stephen Ajulu 2021. All Glory Unto God!"
+copyright = "Copyright © Stephen Ajulu 2021.  |  All Glory Unto God!"
 footerLogo = "favicon.png"
 formspreeURL = "https://formspree.io/f/alunje73@gmail.com"
 googleAnalytics = "UA-132349593-3"
@@ -84,11 +84,11 @@ pinImage = "images/pin.png"
 
 # Social icons
 [[params.social]]
-icon = "fa-facebook-official"
+icon = "fa-facebook-f"
 url = "https://www.facebook.com/stephenajulu"
 weight = 1
 [[params.social]]
-icon = "fa-linkedin-square"
+icon = "fa-linkedin"
 url = "https://www.linkedin.com/in/stephenajulu"
 weight = 2
 [[params.social]]
@@ -96,22 +96,30 @@ icon = "fa-instagram"
 url = "https://www.instagram.com/stephenajulu"
 weight = 3
 [[params.social]]
-icon = "fa-twitter-square"
+icon = "fa-twitter"
 url = "https://twitter.com/stephenajulu"
 weight = 4
 [[params.social]]
-icon = "fa-github-square"
+icon = "fa-github"
 url = "https://www.github.com/stephenajulu"
 weight = 5
 [[params.social]]
-icon = "fa-dribble"
-url = "https://www.dribble.com/stephenajulu"
+icon = "fa-dribbble"
+url = "https://dribbble.com/stephenajulu"
 weight = 6
 [[params.social]]
-icon = "fa-pinterest-square"
+icon = "fa-pinterest"
 url = "https://www.pinterest.com/stephenajulu"
 weight = 8
 [[params.social]]
-icon = "fa-youtube-square"
+icon = "fa-youtube"
 url = "https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"
 weight = 9
+[[params.social]]
+icon = "fa-link"
+url = "https://ajulusthoughts.stephenajulu.com"
+weight = 10
+[[params.social]]
+icon = "fa-rss"
+url = "https://ajulusthoughts.stephenajulu.com/rss"
+weight = 10
