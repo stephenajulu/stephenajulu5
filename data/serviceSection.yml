@@ -19,20 +19,20 @@ service:
   - content: >
       #### Content Creation & Strategy
 
-      I write tech articles, manuals, ebooks, books, instructions and books. I can also copywright and build and content strategies for your blog, organization or something else
+      I write tech articles, manuals, ebooks, books, instructions, help, support, tutorials and product descriptions. I can also copywrite, podcast, film youtube videos and build content strategies for your blog, organization or something else
     image: images/service/ui-ux.svg
   - content: >
       #### Cybersecurity Strategy & Consultation
 
-      This is a service mainly dedicated to small business, i can help you come up with a cybersecurity strategy to help you build a good security structure for you, your employees and the company in general
+      This is a service mainly dedicated to small business, i can help you come up with a cybersecurity strategy to help, build a good security structure for you, your employees and the company in general and protect your data from hackers and damage
     image: images/service/branding.svg
   - content: >
       #### I.T Consultation
 
-      With my years of experience as a go to tech guy and support, i can help you identify the needs of your company in the I.T section and how to fufil the need in a cost effective way
+      With my years of experience as a go to tech guy and support, i can help you identify the needs of your company in the I.T section and how to fufil the need in a cost effective way. I can also recommend the skills needed for certain positions and fill them.
     image: images/service/ui-ux.svg
   - content: >
       #### General Consultation
 
-      With my years of experirence in I.T, Content Creation, Web Development, Cybersecurity, Design, Internet, Business, Brands, Agriculture, Finance and more, i may be of assistance by helping you achieve your goal
+      With my years of experirence in I.T, Content Creation, Web Development, Cybersecurity, Design, Internet, Business, Brands, Agriculture, Finance and more, i may be of assistance by helping you achieve your goal or vision
     image: images/service/web.svg
