@@ -9,7 +9,7 @@ service:
   - content: >
       #### Web Development 
 
-      I build fast, secure and search engine optimized progressive websites. I use platforms like wordpress, hugo, jamstack, jekyll and more. So whether you want a personal website or a company website or a blog or documentation website i make sure it's attractive, fast and performant
+      I build fast, secure and search engine optimized progressive websites. I use platforms like wordpress, hugo, jamstack, jekyll and more. So whether you want a personal website or a company website or a blog or a documentation website, i make sure it's attractive, fast and optimized
     image: images/service/web.svg
   - content: >
       #### Graphic & Web Design 
